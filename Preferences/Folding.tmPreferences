@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Folding</string>
+	<key>scope</key>
+	<string>text.html.liquid</string>
+	<key>settings</key>
+	<dict>
+		<key>foldingStartMarker</key>
+		<string>(?x)
+	        (&lt;(?i:body|div|dl|fieldset|form|head|li|ol|script|select|style|table|tbody|tfoot|thead|tr|ul)\b.*?&gt;
+	        |&lt;!--(?!.*--\s*&gt;)
+	        |^&lt;!--\ \#tminclude\ (?&gt;.*?--&gt;)$
+	        |\{%\s+(if|unless|for|paginate|capture|form|case|tablerow|raw|comment)
+	        )</string>
+		<key>foldingStopMarker</key>
+		<string>(?x)
+	        (&lt;/(?i:body|div|dl|fieldset|form|head|li|ol|script|select|style|table|tbody|tfoot|thead|tr|ul)&gt;
+	        |^(?!.*?&lt;!--).*?--\s*&gt;
+	        |^&lt;!--\ end\ tminclude\ --&gt;$
+	        |\{%\s+end(if|unless|for|paginate|capture|form|case|tablerow|raw|comment)
+	        )</string>
+	</dict>
+	<key>uuid</key>
+	<string>02D387AC-2377-49D8-858D-E6B49480A609</string>
+</dict>
+</plist>

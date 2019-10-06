@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>{% capture ${1:var} %}
+	$0
+{% endcapture %}</string>
+    <key>name</key>
+    <string>capture (block)</string>
+    <key>scope</key>
+    <string>text.html.liquid</string>
+    <key>tabTrigger</key>
+    <string>capture</string>
+    <key>uuid</key>
+    <string>76537E92-E747-42CA-8500-993345E02A90</string>
+</dict>
+</plist>

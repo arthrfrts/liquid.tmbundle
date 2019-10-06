@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>{% decrement ${1:var} %}$0</string>
+    <key>name</key>
+    <string>decrement</string>
+    <key>scope</key>
+    <string>text.html.liquid</string>
+    <key>tabTrigger</key>
+    <string>decr</string>
+    <key>uuid</key>
+    <string>8F918F8B-73B0-4849-A8D9-6B498BAC080B</string>
+</dict>
+</plist>

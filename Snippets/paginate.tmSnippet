@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>{% paginate ${1:collection} by ${2:size} %}
+	$0
+{% endpaginate %}</string>
+    <key>name</key>
+    <string>paginate</string>
+    <key>scope</key>
+    <string>text.html.liquid</string>
+    <key>tabTrigger</key>
+    <string>paginate</string>
+    <key>uuid</key>
+    <string>5A85EEEA-1887-4D6A-84AD-94B36E8245FD</string>
+</dict>
+</plist>

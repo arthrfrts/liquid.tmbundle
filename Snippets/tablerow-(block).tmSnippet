@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>{% tablerow ${1:item} in ${2:seq} cols:$3 limit:$4 offset:$5 %}
+	$0
+{% endtablerow %}</string>
+    <key>name</key>
+    <string>tablerow (block)</string>
+    <key>scope</key>
+    <string>text.html.liquid</string>
+    <key>tabTrigger</key>
+    <string>tablerow.</string>
+    <key>uuid</key>
+    <string>050F96E3-CDCE-468C-9F26-D98D97EEC486</string>
+</dict>
+</plist>

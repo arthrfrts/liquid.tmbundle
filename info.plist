@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>contactName</key>
+    <string>Vincent Chu</string>
+    <key>description</key>
+    <string>&lt;a href="https://help.shopify.com/themes/liquid"&gt;Liquid&lt;/a&gt;, an open-source template language created by Shopify and written in Ruby.</string>
+    <key>mainMenu</key>
+    <dict>
+        <key>items</key>
+        <array>
+            <string>6949A252-BD54-4473-8CD2-D4E98900BD4E</string>
+            <string>2482783D-75D0-4865-A7B5-0A6F444DF4F0</string>
+            <string>38FCBEEC-A710-46A1-A692-D3DA77AE12A7</string>
+            <string>52CCF9D8-C46A-4C5F-93B7-92D27ED397EF</string>
+            <string>------------------------------------</string>
+            <string>2026B9CF-0594-4B6C-A0AF-2E8473433CB0</string>
+            <string>0DC81A63-5DB8-49DB-80FC-D76C044FED6B</string>
+            <string>6790D264-A6E4-4E1C-B235-9177E6B691E4</string>
+            <string>A46EE782-6376-4E5A-A1D0-47C0B08B2B56</string>
+            <string>------------------------------------</string>
+            <string>94B209AF-0A2B-4961-845E-6EFF0F982DE3</string>
+            <string>7A8DB09E-D10C-4CE5-B4A1-1CAC8E0B4437</string>
+            <string>1A93B0AC-E7B3-494F-9496-8B7A5851B7DF</string>
+            <string>EB20CC1B-041E-423C-8054-076C0D8577DC</string>
+            <string>0FCAD002-0267-43C7-BF86-1FE20AA873E3</string>
+            <string>4AC9EEA5-A7BA-46A2-83B2-8A5009AE004D</string>
+            <string>050F96E3-CDCE-468C-9F26-D98D97EEC486</string>
+            <string>73D97100-B6ED-4013-BDC6-8C7F8C7EF916</string>
+            <string>FDF9CC1E-741A-4BB6-BF37-7D09C23A45AE</string>
+            <string>C8313C25-E076-4453-80C3-E4BF1F026D4B</string>
+            <string>7CDC1775-8DE4-4E45-9E48-2239E708B4C9</string>
+            <string>ED8BD468-C8F6-473D-9242-0334625A0443</string>
+            <string>41CF3477-5B28-4E77-9209-72F105EAFA59</string>
+            <string>FECAC9B8-87F6-490B-8BDA-81B1DD59ECC2</string>
+            <string>84C401E4-A0B4-4C18-B47E-9C28DF88FC4A</string>
+            <string>38A4DB71-9B3A-4AD6-BDD7-FE3E8173EF0E</string>
+            <string>76537E92-E747-42CA-8500-993345E02A90</string>
+            <string>2D89EAF8-FCC8-4217-B08F-FF3247BBF07A</string>
+            <string>8F918F8B-73B0-4849-A8D9-6B498BAC080B</string>
+            <string>------------------------------------</string>
+            <string>83DDD4AD-A6C3-4D6F-895B-5B0AD7D4DDD5</string>
+            <string>CF590F9C-98F2-4E64-A6E3-FFE3D95A494A</string>
+            <string>5A85EEEA-1887-4D6A-84AD-94B36E8245FD</string>
+            <string>D28AB3C1-E421-4EE3-96D2-273C9B5D7AB5</string>
+            <string>669AF2E8-D2C5-4C9E-887A-C35BACF1B4E7</string>
+            <string>250BF12E-7EB2-475F-B7C1-8417E1E1C57F</string>
+        </array>
+    </dict>
+    <key>name</key>
+    <string>Liquid</string>
+    <key>uuid</key>
+    <string>B925C531-D93D-4538-BE76-DC419B0A229C</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>content</key>
+    <string>{% case ${1:item} %}
+{% when ${2:value} %}
+	$3
+{% else %}
+	$0
+{% endcase %}</string>
+    <key>name</key>
+    <string>case (block)</string>
+    <key>scope</key>
+    <string>text.html.liquid</string>
+    <key>tabTrigger</key>
+    <string>case</string>
+    <key>uuid</key>
+    <string>84C401E4-A0B4-4C18-B47E-9C28DF88FC4A</string>
+</dict>
+</plist>
